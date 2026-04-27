@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 
 
 <!--
 **ANGEL-0G/ANGEL-0G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
